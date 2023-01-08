@@ -1,3 +1,4 @@
+# example of error handling
 while True:
     try:
         2 + '2'
